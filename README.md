@@ -1,2 +1,4 @@
 # UTS-AVD
-Muhammad Nadhir Sultan Azzaky/2509116080
+Nama: Muhammad Nadhir Sultan Azzaky
+NIM: 2509116080
+Mata Kuliah: Analitik Visualisasi Data
